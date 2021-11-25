@@ -2,12 +2,12 @@ Uuid: 54f3dde6650a46d19789d19c4e2edd5f
 ExtensionType: 1
 Name: BurpCrypto, Encryption Payload Processor
 RepoName: burpcrypto
-ScreenVersion: 0.1.9
-SerialVersion: 1
+ScreenVersion: 0.1.9.1
+SerialVersion: 2
 MinPlatformVersion: 0
 ProOnly: False
 Author: whwlsfb
 ShortDescription: A collection of burpsuite encryption plug-ins, support AES/RSA/DES/ExecJs(execute JS encryption code in burpsuite).
-EntryPoint: target/BurpCrypto-0.1.9-full.jar
+EntryPoint: target/BurpCrypto-0.1.9.1-full.jar
 BuildCommand: mvn package
 SupportedProducts: Pro, Community
